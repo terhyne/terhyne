@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @terhyne
 - 👀 I’m interested in molecular biology.
 - 🌱 I’m currently learning about bioinformatics.
-- 💞️ I’m looking to collaborate with lab members.
+- 💞️ I’m looking to collaborate with classmates and lab members.
 - 📫 How to reach me: terhyne@ucsd.edu.
 
 <!---
